@@ -1,13 +1,18 @@
 package com.khaydev;
 
+import java.util.ServiceLoader;
+
 /**
- * Hello world!
+ * @author Ebenezer Buabeng
  *
+ * @see Logger
+ * @see java.util.ServiceLoader
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        ServiceLoader<Logger> loader = ServiceLoader.load(Logger.class);
+        loader.stream().forEach(serviceProvider -> serviceProvider.get().log("Hello Devs"));
     }
 }
