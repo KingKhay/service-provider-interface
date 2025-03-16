@@ -1,5 +1,5 @@
 
+„
+java:S3066"<Lower the visibility of this setter or remove it altogether.( Ô÷ûÿÿÿÿ8œ°ÕóÙ2J$19ee4a27-002c-4c89-a9ea-100c0c29c4d1
 ÷
-java:S6548"®An Enum-based Singleton implementation was detected. Make sure the use of the Singleton pattern is required and an Enum-based implementation is the right one for the context.(Òòº˜ıÿÿÿÿ8£å—óÙ2J$978e0df2-7563-4131-8b6f-311926b8a05d
-w
-java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶8©å—óÙ2J$91b2c12c-1330-4515-a5f8-04a30e248f47
+java:S6548"®An Enum-based Singleton implementation was detected. Make sure the use of the Singleton pattern is required and an Enum-based implementation is the right one for the context.(Òòº˜ıÿÿÿÿ8°ÕóÙ2J$d66a2bcc-9de6-4868-964f-a6ed8903a1b2

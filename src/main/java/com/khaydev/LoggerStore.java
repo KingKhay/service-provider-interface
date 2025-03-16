@@ -1,6 +1,5 @@
 package com.khaydev;
 
-import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
@@ -13,13 +12,17 @@ import java.util.logging.Logger;
 public enum LoggerStore {
     INSTANCE;
 
-    private final Logger logger;
+    private Logger logger;
 
-    private LoggerStore(){
+    LoggerStore(){
         logger = Logger.getLogger(LoggerStore.class.getName());
     }
 
     public Logger getLogger(){
         return logger;
+    }
+
+    public void setLogger(Logger logger){
+        this.logger = logger;
     }
 }

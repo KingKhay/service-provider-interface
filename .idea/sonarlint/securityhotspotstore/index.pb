@@ -18,3 +18,7 @@ V
 &src/test/java/com/khaydev/AppTest.java,9\3\93d2e2919d4d50ecdec5ec94ba5d333a0eae3324
 b
 2src/test/java/com/khaydev/impl/InfoLoggerTest.java,b\2\b269202cdb4e2bb1bc10289cfd976e9c3b65430b
+c
+3src/test/java/com/khaydev/impl/ErrorLoggerTest.java,9\d\9d70790f2e57f678a60d5413bce93b034d7d06c0
+^
+.src/test/java/com/khaydev/LoggerStoreTest.java,3\1\314e358f72aa2a56d45d6b59ebabd9fcae0ec08f
