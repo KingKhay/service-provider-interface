@@ -22,3 +22,5 @@ c
 3src/test/java/com/khaydev/impl/ErrorLoggerTest.java,9\d\9d70790f2e57f678a60d5413bce93b034d7d06c0
 ^
 .src/test/java/com/khaydev/LoggerStoreTest.java,3\1\314e358f72aa2a56d45d6b59ebabd9fcae0ec08f
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
